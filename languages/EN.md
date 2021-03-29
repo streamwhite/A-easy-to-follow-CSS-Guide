@@ -43,17 +43,20 @@ Place directly after a CSS module, so that the structure is clearer.
 
 ### Comments
 
-Add context or describe the purpose.
+Add context or clariry its purpose.
 
 ### Naming
 
-Describe the purpose and use the existing conventions.
+Describe the purpose and follow the existed conventions in your organization.
 
 ### Selectors
 
-To avoid duplication of definitions:
+To avoid duplication of declaration:
 
 -   Try to use class first.
 
 -   And consider whether it is possible to have a style with only one
-    class, and have a style with only one class.
+    class, and a style with only one class.
+	
+### Adjustment
+-   Adjust guides to fit your projects.
